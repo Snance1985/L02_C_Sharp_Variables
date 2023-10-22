@@ -1,0 +1,15 @@
+C:\Users\sean_\Desktop\csharp-course\l02-variables\bin\Debug\net6.0\l02-variables.exe
+C:\Users\sean_\Desktop\csharp-course\l02-variables\bin\Debug\net6.0\l02-variables.deps.json
+C:\Users\sean_\Desktop\csharp-course\l02-variables\bin\Debug\net6.0\l02-variables.runtimeconfig.json
+C:\Users\sean_\Desktop\csharp-course\l02-variables\bin\Debug\net6.0\l02-variables.dll
+C:\Users\sean_\Desktop\csharp-course\l02-variables\bin\Debug\net6.0\l02-variables.pdb
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.csproj.AssemblyReference.cache
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.AssemblyInfoInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.AssemblyInfo.cs
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.csproj.CoreCompileInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.dll
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\refint\l02-variables.dll
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.pdb
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\l02-variables.genruntimeconfig.cache
+C:\Users\sean_\Desktop\csharp-course\l02-variables\obj\Debug\net6.0\ref\l02-variables.dll
